@@ -63,7 +63,7 @@ $ php artisan serve
 
 ## API Documentation
 
-Download postman collection in this repo
+Download postman collection in this repo (INDITAMA.postman_collection.json)
 
 ## Credential
 
